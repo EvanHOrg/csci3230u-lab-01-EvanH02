@@ -5,16 +5,18 @@ real answers here - the `TODO`s must be gone before the check turns green.
 
 ## Name
 
-TODO - your full name
+Evan Harder
 
 ## What I learned
+When commiting we do Feat: first before what we changed.
+Pull Merging and the closes #.
 
-TODO - two or three sentences on something that clicked this lab
 
 ## A Git command I will remember
+git switch
+When switching branches easy.
 
-TODO - name one command and say, in a sentence, when you'd reach for it
 
 ## Evidence (links)
 
-- Merged pull request: TODO (paste the PR URL)
+https://github.com/EvanH02/csci3230u-lab-01-EvanH02/pull/2
